@@ -18,7 +18,7 @@ package main
 import (
 	"github.com/spf13/cobra"
 	"os"
-	"tasty/cmd"
+	"github.com/karmab/tasty/cmd"
 )
 
 func main() {
